@@ -7,10 +7,13 @@
 # Ignore bundler config.
 /.bundle
 
+<<<<<<< HEAD
 # ignore releases
 !./releases/**
 
 /repo/**/**/**/**
+=======
+>>>>>>> 4570542262143fac3b88e16a04d0b3f8149ad033
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
