@@ -1,0 +1,2 @@
+# capistrano-deployed
+capistrano-deployed
